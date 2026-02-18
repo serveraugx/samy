@@ -111,7 +111,7 @@ Naomba huduma tafadhali.`;
         <div className={`relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-32 transition-all duration-1000 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
           <div className="text-center max-w-4xl mx-auto">
             <div className="flex justify-center mb-8">
-              <img src={`${import.meta.env.BASE_URL}WhatsApp_Image_2026-02-02_at_11.11.26_(1).jpeg`} alt="Samy Smart Cleanup Logo" className="h-48 sm:h-56 lg:h-64 drop-shadow-2xl animate-bounce" />
+              <img src={`${import.meta.env.BASE_URL}sammy.png`} alt="Samy Smart Cleanup Logo" className="h-48 sm:h-56 lg:h-64 drop-shadow-2xl animate-bounce" />
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-white mb-6 tracking-tight leading-tight">

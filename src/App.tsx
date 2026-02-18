@@ -88,12 +88,12 @@ ${formData.message ? `Ujumbe: ${formData.message}` : ''}
 
 Naomba huduma tafadhali.`;
 
-    const url = `https://wa.me/255626232462?text=${encodeURIComponent(message)}`;
+    const url = `https://wa.me/255626232162?text=${encodeURIComponent(message)}`;
     window.open(url, '_blank');
   };
 
   const openWhatsApp = () => {
-    window.open('https://wa.me/255626232462', '_blank');
+    window.open('https://wa.me/255626232162', '_blank');
   };
 
   const scrollToBooking = () => {
@@ -397,13 +397,13 @@ Naomba huduma tafadhali.`;
             <div className="bg-white/10 backdrop-blur-md rounded-xl p-8 text-center hover:bg-white/20 transition-all duration-300">
               <Phone className="w-12 h-12 mx-auto mb-4 text-blue-300" />
               <h3 className="text-xl font-bold mb-2">Simu</h3>
-              <a href="tel:+255718703952" className="text-blue-200 hover:text-white transition-colors block">0718703952</a>
+              <a href="tel:+255718703952" className="text-blue-200 hover:text-white transition-colors block">0626232162</a>
             </div>
 
             <div className="bg-white/10 backdrop-blur-md rounded-xl p-8 text-center hover:bg-white/20 transition-all duration-300">
               <MessageCircle className="w-12 h-12 mx-auto mb-4 text-blue-300" />
               <h3 className="text-xl font-bold mb-2">WhatsApp</h3>
-              <a href="https://wa.me/255626232462" target="_blank" rel="noopener noreferrer" className="text-blue-200 hover:text-white transition-colors block">0626232462</a>
+              <a href="https://wa.me/255626232162" target="_blank" rel="noopener noreferrer" className="text-blue-200 hover:text-white transition-colors block">0626232162</a>
             </div>
           </div>
 
